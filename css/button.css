@@ -136,7 +136,7 @@ body {
 }
 /* <!-- --> */
 
-/* Hover Modifier Like */
+/* Hover Modifier Play */
 .pg-button.pg-button__hover.pg-button__hover--play:after,
 .pg-button.pg-button__hover.pg-button__hover--play:before {
     content: 'Play it!';
@@ -154,7 +154,7 @@ body {
 }
 /* <!-- --> */
 
-/* Hover Modifier Like */
+/* Hover Modifier Idea */
 .pg-button.pg-button__hover.pg-button__hover--idea:after,
 .pg-button.pg-button__hover.pg-button__hover--idea:before {
     content: 'Like this!';
